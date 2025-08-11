@@ -56,9 +56,6 @@ System Design • Performance Optimization • Role-Based Access Control
 - [**WalletWise**](https://github.com/Utkarshh-Dixit/WalletWise)  
   *Personal Finance Manager* — Smart budgeting and expense tracking for users.
 
-- [**Frautect-app**](https://github.com/Utkarshh-Dixit/Frautect-app)  
-  *Fraud Detection Dashboard* — Real-time monitoring and analytics for financial applications.
-
 - [**React Native Installed Apps (Android)**](https://github.com/Utkarshh-Dixit/react-native-installed-apps-android)  
   *Cross-platform utility* to access installed Android apps via React Native.
 
