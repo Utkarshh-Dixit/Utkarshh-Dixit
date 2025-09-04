@@ -20,7 +20,8 @@
 
 I'm a passionate Full Stack Developer, specializing in building scalable, user-centric products with modern technologies. My approach combines clean code, creative problem-solving, and a constant drive to learn and deliver value—whether in a startup or a global hackathon. 
 
-- 🏢 **Current Intern:** Full Stack Developer at [Frautect](https://frautect.com/) (Next.js, MongoDB, Express.js)
+- 🏢 **Currently working as a:** Full Stack Developer at [Frautect](https://frautect.com/) (API development, React Native, Next.js, MongoDB, Express.js)
+- 🏢 **Previously:** Full Stack Developer Intern at [Frautect](https://frautect.com/) (Next.js, MongoDB, Express.js)
 - 🛠️ **Previously:** Full Stack Intern at [Madrocket Technologies (iQNaut)](https://iqnaut.com/) (React.js, Firebase)
 - 🎓 **Education:** B.Tech in Computer Science, Dr. APJ Abdul Kalam Technical University (2020-2024)
 
