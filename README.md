@@ -1,6 +1,6 @@
 <p align="center">
-<!--   <img src="https://utkarshdixit.in/assets/banner.png" alt="Utkarsh Dixit Banner" width="100%" /> -->
-<!-- </p> -->
+  <img src="https://utkarshdixit.in/My_photu.png" alt="Utkarsh Dixit Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi, I'm Utkarsh Dixit 👋</h1>
 
