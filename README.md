@@ -1,18 +1,25 @@
-<p align="center">
-  <img src="https://utkarshdixit.in/My_photu.png" alt="Utkarsh Dixit Banner" width="25%" />
-</p>
+<div style="display: flex; align-items: center; justify-content: center; min-height: 60vh; gap: 40px;">
+  
+  <!-- Left (Image) -->
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="https://utkarshdixit.in/My_photu.png" alt="Utkarsh Dixit Banner" style="width: 50%; border-radius: 12px;" />
+  </div>
 
-<h1 align="center">Hi, I'm Utkarsh Dixit 👋</h1>
+  <!-- Right (Text & Links) -->
+  <div style="flex: 1; text-align: center;">
+    <h1>Hi, I'm Utkarsh Dixit 👋</h1>
+    <p><b>Crafting Impactful Software | Full Stack Developer | Problem Solver</b></p>
+    <p><em>Driven by curiosity, powered by code.</em></p>
 
-<p align="center"><b>Crafting Impactful Software | Full Stack Developer | Problem Solver</b></p>
-<p align="center"><em>Driven by curiosity, powered by code.</em></p>
+    <p>
+      <a href="https://utkarshdixit.in">🌐 Portfolio</a> •
+      <a href="mailto:utkarshdixit.2k21@gmail.com">Email</a> •
+      <a href="https://linkedin.com/in/utkarshh-dixit">LinkedIn</a> •
+      <a href="https://github.com/Utkarshh-Dixit">GitHub</a>
+    </p>
+  </div>
+</div>
 
-<p align="center">
-  <a href="https://utkarshdixit.in">🌐 Portfolio</a> •
-  <a href="mailto:utkarshdixit.2k21@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/utkarshh-dixit">LinkedIn</a> •
-  <a href="https://github.com/Utkarshh-Dixit">GitHub</a>
-</p>
 
 ---
 
